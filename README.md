@@ -65,4 +65,4 @@ Protocols     SNMP · Redfish API · DCIM
 
 ---
 
-*The problems I spent 15 years solving manually: decisions made without data, deviations nobody could explain, energy wasted at scale. These are exactly the problems AI can solve. That is what drives these projects.*
+*The problems I spent 15 years solving manually: decisions made without data, deviations nobody could explain, energy wasted at scale. These are exactly the problems AI can solve. My obsession is simple: wake up the data already sitting inside industrial organisations and use it to make them more efficient, more resilient and ready for the new era of energy transition and AI.*
