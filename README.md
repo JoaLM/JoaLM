@@ -4,7 +4,7 @@
 
 I spent 15 years inside large industrial organisations watching decisions get made on gut feeling, deviations that nobody could explain, and energy being wasted at scale. The data was always there. The tools to use it properly weren't. That's what I'm building here.
 
-My background is in engineering and program management — CAPEX portfolios, digital transformation, operational excellence across pharma, food, chemical, energy and critical infrastructure environments in EMEA. This space is where I develop the technical fluency to close the gap between the business problems I know deeply and the AI and data tools that can actually solve them.
+My background is in engineering and program management:  CAPEX portfolios, digital transformation, operational excellence across pharma, food, chemical, energy and critical infrastructure environments in EMEA. This space is where I develop the technical fluency to close the gap between the business problems I know deeply and the AI and data tools that can actually solve them.
 
 ---
 
