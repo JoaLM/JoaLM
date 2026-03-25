@@ -61,7 +61,7 @@ Protocols     SNMP · Redfish API · DCIM
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-joaquimlopezmarsramon-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/joaquimlopezmarsramon)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-joaquimlopezmarsramon-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/joaquimlopezmasramon)
 
 ---
 
