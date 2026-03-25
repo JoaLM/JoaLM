@@ -52,10 +52,10 @@ Protocols     SNMP · Redfish API · DCIM
 
 | | |
 |---|---|
-| 📍 Location | Ghent, Belgium |
+| 📍 Location | Belgium |
 | 🎓 Education | MBA · BSc Ch. Engineering |
 | 🏢 Current | Cargill EMEA — Engineering & BPM Program Manager |
-| 🔎 Open to | Senior roles in Belgium · Ireland · Spain |
+| 🔎 Open to | Senior roles in Belgium · Ireland · Spain · EMEA |
 
 ---
 
@@ -65,4 +65,4 @@ Protocols     SNMP · Redfish API · DCIM
 
 ---
 
-*The problems I spent 15 years solving manually — decisions made without data, deviations nobody could explain, energy wasted at scale — are exactly the problems AI can solve. That is what drives these projects.*
+*The problems I spent 15 years solving manually: decisions made without data, deviations nobody could explain, energy wasted at scale. These are exactly the problems AI can solve. That is what drives these projects.*
